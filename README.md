@@ -1,1 +1,2 @@
-AZIZBEK
+REDMI.md
+REDMI.txt
